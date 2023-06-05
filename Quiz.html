@@ -1,8 +1,8 @@
----
+<!---
 layout: default
 title: Quiz!
 permalink: /quiz.html
----
+--->
 
 <!DOCTYPE html>
 <html lang="en">
@@ -10,7 +10,7 @@ permalink: /quiz.html
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Quiz</title>
 </head>
 <style>
     @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap");
@@ -19,7 +19,7 @@ box-sizing: border-box;
 }
 body {
 background-color: #b8c6db;
-background-image: linear-gradient(315deg, #b8c6db 0%, #f5f7fa 100%);
+background-image: linear-gradient(1000deg, rgb(190, 205, 230) 0%, #f5f7fa 100%);
 font-family: "Poppins", sans-serif;
 display: flex;
 align-items: center;
@@ -30,7 +30,7 @@ margin: 0;
 }
 .quiz-container {
 background-color: #fff;
-border-radius: 10px;
+border-radius: 30px;
 box-shadow: 0 0 10px 2px rgba(100, 100, 100, 0.1);
 width: 600px;
 max-width: 95vw;
@@ -56,7 +56,7 @@ ul li label {
 cursor: pointer;
 }
 button {
-background-color: #8e44ad;
+background-color: gray;
 color: #fff;
 border: none;
 display: block;
@@ -67,11 +67,11 @@ font-family: inherit;
 padding: 1.3rem;
 }
 button:hover {
-background-color: #732d91;
+background-color: darkgray;
 }
 button:focus {
 outline: none;
-background-color: #5e3370;
+background-color: gray;
 }
 </style>
 <body>
@@ -102,37 +102,83 @@ background-color: #5e3370;
         <script>
             const quizData = [
 {
-question: "Who is the father of HTML?",
-a: "Rasmus Lerdorf",
-b: "Tim Berners-Lee",
-c: "Brendan Eich",
-d: "Sergey Brin",
-correct: "b",
-},
-{
-question: "What does HTML stand for?",
-a: "Hypertext Markup Language",
-b: "Hypertext Markdown Language",
-c: "Hyperloop Machine Language",
-d: "Helicopters Terminals Motorboats Lamborginis",
+question: "What is the most frecuent type of corruption in the world?",
+a: "Bribery",
+b: "Extortion",
+c: "Nepotism",
+d: "Electoral fraud",
 correct: "a",
 },
 {
-question: "What does CSS stand for?",
-a: "Central Style Sheets",
-b: "Cascading Style Sheets",
-c: "Cascading Simple Sheets",
-d: "Cars SUVs Sailboats",
+question: "Which is NOT a consecuence of corruption?",
+a: "Exacerbated inequality and proverty",
+b: "Lack of transparency",
+c: "Weakening of justice",
+d: "Hindered economic development",
 correct: "b",
 },
 {
-question: "What year was JavaScript launched?",
-a: "1996",
-b: "1995",
-c: "1994",
-d: "none of the above",
-correct: "b",
+question: "What is an example of corruption in the business sector?",
+a: "Citizen participation",
+b: "Financial transparency",
+c: "Tax evasion",
+d: "Equal opportunities",
+correct: "c",
 },
+{
+question: "What is an international organization that fights against corruption?",
+a: "UNESCO",
+b: "World Health Organization",
+c: "International Monetary Fund",
+d: "World Bank",
+correct: "d",
+},
+{
+question: "Which is NOT a cause of corruption?",
+a: "Ambition and greed",
+b: "Lack of ethics and values",
+c: "Impunity",
+d: "Deterioration of trust and legitimacy",
+correct: "d",
+},
+{
+question: "Which of the following definitions best describes favoritism?",
+a: "Preference or favorable treatment towards one person or group over others.",
+b: "Equity in treatment and justice for all without exception.",
+c: "Promotion of equal opportunities for all individuals",
+d: "Preference or favorable treatment towards family",
+correct: "a",
+},
+{
+question: "What is an effective measure to combat corruption?",
+a: "Education and awareness",
+b: "Impunity and cover-up",
+c: "Process opacity",
+d: "Decentralization of power",
+correct: "a",
+},
+{
+question: "What can citizens do to combat corruption?",
+a: "Promote impunity and cover-up",
+b: "Foster opacity and lack of transparency",
+c: "Actively participate in political life",
+d: "Not report acts of corruption",
+correct: "c",   
+},
+{
+question: "Corruption can be completely eradicated in a society.",
+a: "True",
+b: "False",
+correct: "b",   
+},
+{
+question: "Which of the following options is NOT a measure for corruption prevention?",
+a: "Transparency and accountability",
+b: "Education and awareness about corruption",
+c: "Promoting accountability and ambition",
+d: "Strengthening of institutions and internal controls",
+correct: "c",
+}
 ];
 const quiz = document.getElementById("quiz");
 const answerElements = document.querySelectorAll(".answer");
