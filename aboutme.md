@@ -15,5 +15,5 @@ What else do you need to know from us?
 
 ### Our origin
 
-Luis Olmedo is originally from Zamora Michoacan, born at March, 2003. He likes to play soccer and to watch baseball.
-Roberto Teigeiro is originally from Zapopan Jalisco, born at April, 2004. He likes to watch South Park and to eat gummys.
+Luis Olmedo is originally from Zamora Michoacan, born in March, 2003. He likes to play soccer and to watch baseball.
+Roberto Teigeiro is originally from Zapopan Jalisco, born in April, 2004. He likes to watch South Park and to eat gummys.
