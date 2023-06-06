@@ -442,14 +442,12 @@ footer .footer-custom-content {
 
 /* --- Post preview (feed) --- */
 
-.posts-list {
-    margin: 0;
-}
 
-.post-preview {
-  padding: 1.25rem 0;
-  border-bottom: 1px solid #eee;
-  overflow: hidden;
+
+.posts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-gap: 30px; /* Adjust the gap between posts as desired */
 }
 
 @media (min-width: 768px) {
