@@ -23,8 +23,7 @@ Colosio was shot at close range on that fatal day in Tijuana, and he passed away
  Despite the official finding that the assassination was carried out by a lone shooter, there are still questions. Many people think that the assassination was the result of a well-planned scheme involving several participants rather than an accident. Numerous issues remain unanswered, adding to the general mistrust surrounding the case. A thorough investigation was not conducted, and testimony and evidence were withheld.
 
  ## Interested more in this topic?:
-
- #### Netflix has a great documentary regarding this:
-
-
- [![1994: Poder, Rebeldía y Crimen en México | Trailer | Netflix](https://img.youtube.com/vi/DRavq78Ef_U/0.jpg)](https://www.youtube.com/watch?v=DRavq78Ef_U)
+ //////
+  #### Netflix has a great documentary regarding this:
+  ->
+[![1994: Poder, Rebeldía y Crimen en México | Trailer | Netflix](https://img.youtube.com/vi/DRavq78Ef_U/0.jpg)](https://www.youtube.com/watch?v=DRavq78Ef_U)
