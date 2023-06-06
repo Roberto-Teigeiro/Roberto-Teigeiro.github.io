@@ -9,7 +9,7 @@ tags: [Corruption, Documentary]
 ---
 
 # The assassination of Luis Donaldo Colosio 
-the PRI's presidential candidate, on March 23, 1994, in the middle of a campaign gathering in Tijuana, shocked Mexico to its very core. In addition to being a tragic loss for Mexico, Colosio's assassination exposed a deep underbelly of corruption in the nation's political system. In this post, we go into the Colosio case, examining the claims of corruption that surrounded his campaign and the unanswered issues that continue to gnaw at everyone's collective memory in Mexico.
+the PRI's presidential candidate, on March 23, 1994, in the middle of a campaign gathering in Tijuana, shocked Mexico to its very core. In addition to being a tragic loss for Mexico, Colosio's assassination exposed a deep underbelly of corruption in the nation's political system. In this post: we go into the Colosio case, examining the claims of corruption that surrounded his campaign and the unanswered issues that continue to gnaw at everyone's collective memory in Mexico.
 
 ### Colosio's Vision for Change: 
  Luis Donaldo Colosio was an electrifying politician who sought to revolutionize Mexico's social and political landscape. He spoke vehemently about combating corruption inside the PRI, which had ruled Mexico for more than 70 years, as well as eradicating poverty and advancing human rights. Many Mexicans who desired for a more open and responsible government were moved by his promises of change.
