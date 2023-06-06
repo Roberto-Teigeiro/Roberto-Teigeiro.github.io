@@ -20,7 +20,7 @@ author: Luis Olmedo & Roberto Teigeiro
 ###############################################
 
 navbar-links:
-  About Me: "aboutus"
+  About Us: "https://mexicorruption.me/aboutme/"
   Resources:
     - Google: "https://www.Google.com"
     - Inai: "https://home.inai.org.mx/"
