@@ -24,4 +24,5 @@ Colosio was shot at close range on that fatal day in Tijuana, and he passed away
 
 ## Interested more in this topic? Check this documentary:
 
+
 [![1994: Poder, Rebeldía y Crimen en México | Trailer | Netflix](https://img.youtube.com/vi/DRavq78Ef_U/0.jpg)](https://www.youtube.com/watch?v=DRavq78Ef_U)
