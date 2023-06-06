@@ -1,16 +1,19 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About us
+subtitle: Why you'd want to go on a date with us
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+We´re Luis Olmedo and Roberto Teigeiro. We have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- We´re tolerant at any situation
+- We´re loyal to our family
+- We know how to work as a team
+- We have the habilities to play many sports.
 
-What else do you need?
+What else do you need to know from us?
 
-### My story
+### Our origin
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Luis Olmedo is originally from Zamora Michoacan, born at March, 2003. He likes to play soccer and to watch baseball.
+Roberto Teigeiro is originally from Zapopan Jalisco, born at April, 2004. He likes to watch South Park and to eat gummys.
