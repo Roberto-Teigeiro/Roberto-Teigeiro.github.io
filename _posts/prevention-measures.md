@@ -7,7 +7,9 @@ thumbnail-img: /assets/img/say-no.png
 tags: [Types, Prevention]
 ---
 
-### We will explore the different types of corruption that exist in the world, how they impact society as a whole, and what preventive measures to take to avoid corruption.
+## We will explore the different types of corruption that exist in the world, how they impact society as a whole, and what preventive measures to take to avoid corruption.
+
+### Types 
 
 **Bribery:** It is the act of offering, delivering, or receiving money, gifts, favors, or other benefits in order to influence the behavior of a person in a position of power or authority.
 
@@ -25,3 +27,4 @@ tags: [Types, Prevention]
 
 **Electoral fraud:** It is the manipulation of electoral processes to influence the results, through the buying of votes, alteration of electoral records, ballot forgery, among other illicit methods.
 
+### Preventive Measures
