@@ -28,3 +28,17 @@ tags: [Types, Prevention]
 **Electoral fraud:** It is the manipulation of electoral processes to influence the results, through the buying of votes, alteration of electoral records, ballot forgery, among other illicit methods.
 
 ### Preventive Measures
+
+**Transparency and access to information:** Promote transparency in public management and ensure access to relevant information for citizens. This includes disclosing information about budgets, contracts, government decisions, and other pertinent data.
+
+**Strengthening institutional integrity:** Establish and strengthen independent, impartial, and efficient institutions and control mechanisms. This involves promoting accountability, improving financial management, and implementing effective internal controls in both public and private organizations.
+
+**Education and awareness:** Foster civic education and raise awareness about the risks and consequences of corruption. This includes promoting a culture of integrity, ethics, and moral values from an early age, as well as providing training and awareness programs for public officials and business leaders.
+
+**Citizen participation:** Encourage active citizen participation in decision-making and public affairs oversight. This can be achieved through the promotion of mechanisms such as public hearings, popular consultations, and the use of technology for e-participation.
+
+**Establishment of anti-corruption laws and regulations:** Implement and enforce clear and effective laws and regulations against corruption. This includes transparency laws, conflict of interest regulations, political financing laws, among others, as well as mechanisms for reporting and protecting whistleblowers.
+
+**International cooperation:** Foster cooperation among countries to combat corruption at the international level. This includes the exchange of information, extradition of individuals involved in corruption offenses, and collaboration in joint investigations.
+
+**Use of technology:** Utilize technological tools and electronic systems to enhance transparency, streamline processes, and reduce opportunities for corruption. This includes the use of electronic platforms for public procurement, digital records, and tracking and monitoring systems.
