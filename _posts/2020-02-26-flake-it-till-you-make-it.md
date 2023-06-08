@@ -12,6 +12,7 @@ comments: true
 ### What is corruption
 Corruption refers to the misuse or abuse of entrusted power for personal or collective gain, involving practices such as bribery, embezzlement, nepotism, favoritism, or fraud, which undermine the principles of fairness, transparency, and integrity within a system or society. It is a pervasive problem that can erode public trust, hinder socio-economic development, and perpetuate inequality. Efforts to combat corruption involve promoting accountability, strengthening governance institutions, fostering transparency, and enforcing anti-corruption laws and measures.
 
+
 ### Causes
 
 **Ambition and greed:** The pursuit of power, wealth, and personal benefits can lead some individuals to engage in corrupt acts. Unbridled ambition and greed are motivating factors for committing acts of corruption.
@@ -23,6 +24,7 @@ Corruption refers to the misuse or abuse of entrusted power for personal or coll
 **Low remuneration and lack of opportunities:** In some cases, corruption can be fueled by low salaries and a lack of economic opportunities. When public employees or officials do not receive adequate wages or do not have access to development opportunities, they may be more prone to accepting bribes or obtaining illicit gains.
 
 **Lack of transparency and access to information:** Opacity in the management of public resources and the lack of access to information facilitate corruption. When accountability is limited and information is concealed, there are fewer chances of being discovered and sanctioned for corrupt acts.
+
 
 ### Consecuences
 
